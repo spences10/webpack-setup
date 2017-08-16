@@ -20,7 +20,7 @@
     "babel-core": "^6.23.1",
     "babel-loader": "^7.0.0",
     "babel-preset-es2015-native-modules": "^6.9.4",
-    "webpack": "^3.5.4"
+    "webpack": "^3.5.5"
   },
   "snyk": true
 }
