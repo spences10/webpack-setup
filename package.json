@@ -14,7 +14,7 @@
     "flickity": "^2.0.9",
     "lodash": "^4.17.4",
     "slug": "^0.9.1",
-    "snyk": "^1.39.0"
+    "snyk": "^1.41.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
