@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "flickity": "^2.1.0",
+    "flickity": "^2.1.1",
     "lodash": "^4.17.5",
     "slug": "^0.9.1",
     "snyk": "^1.70.3"
