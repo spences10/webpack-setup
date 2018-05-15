@@ -17,10 +17,10 @@
     "snyk": "^1.81.0"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.4",
-    "babel-preset-es2015-native-modules": "^6.9.4",
-    "webpack": "^4.8.3"
+    "babel-core": "6.26.0",
+    "babel-loader": "7.1.4",
+    "babel-preset-es2015-native-modules": "6.9.4",
+    "webpack": "4.8.3"
   },
   "snyk": true
 }
