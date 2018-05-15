@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "flickity": "^2.1.1",
-    "lodash": "^4.17.5",
-    "slug": "^0.9.1",
-    "snyk": "^1.81.0"
+    "flickity": "2.1.1",
+    "lodash": "4.17.5",
+    "slug": "0.9.1",
+    "snyk": "1.81.0"
   },
   "devDependencies": {
     "babel-core": "6.26.0",
