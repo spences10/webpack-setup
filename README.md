@@ -1,8 +1,5 @@
-
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/webpack-setup.svg)](https://greenkeeper.io/)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)]
 
 Follow along files from the webpack academy
 
 https://webpack.academy
-
